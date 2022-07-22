@@ -5,6 +5,7 @@ Install FastApi in your machine. Following commands might help.
 pip install fastapi
 pip install "uvicorn[standard]"
 pip install python-multipart
+import pandas as pd
 
 Step 2:
 Open the files from github in vscode.Open a new terminal and run, 
