@@ -11,5 +11,5 @@ Open the files from github in vscode.Open a new terminal and run,
 uvicorn main:app --reload
 
 Step 3:
-Go to the newly opened tab on your browser and upload the data file from your device.
+Go to http://127.0.0.1:8000/docs# on your browser and upload the data file from your device.
 You should find the results.
